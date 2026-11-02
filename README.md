@@ -203,10 +203,6 @@ Makes the supply chain more resilient by connecting multiple buyers and sellers 
 
 <img width="1475" height="814" alt="494285672-e9501b1e-3a94-48b1-a151-047bb738bd58" src="https://github.com/user-attachments/assets/6969b9e6-a282-4f52-8cab-5dcc9d512b8f" />
 
-## Image
-
-<img width="851" height="1151" alt="492133704-01452979-e6ff-4611-9433-515b0079e605" src="https://github.com/user-attachments/assets/03f5a598-25e3-41bb-8181-8dc36e854d5e" />
-
 ## Research and References
 https://www.sciencedirect.com/science/article/pii/S2667006222000375
 https://pmc.ncbi.nlm.nih.gov/articles/PMC9263815/
